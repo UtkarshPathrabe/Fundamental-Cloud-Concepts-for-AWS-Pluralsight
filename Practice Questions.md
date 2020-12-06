@@ -85,7 +85,7 @@ C. AWS Regions have a single availability zone
 D. Availability Zones have a minimum of 3 data centers  
 Answer: AWS Regions have more than 1 availability zone  
 
-Q13. Which cloud computing model provides a platform where you can easily deploy your code without having to manage the underlying virtual serviers?
+Q13. Which cloud computing model provides a platform where you can easily deploy your code without having to manage the underlying virtual serviers?  
 A. Platform as a Service (PaaS)  
 B. Software as a Service (SaaS)  
 C. Infrastructure as a Service (IaaS)  
